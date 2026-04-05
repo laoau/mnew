@@ -1,0 +1,95 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/Item_bean_recy.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/F1.java",
+      "selection": {
+        "end": {
+          "column": 38,
+          "index": 727,
+          "line": 24
+        },
+        "start": {
+          "column": 38,
+          "index": 727,
+          "line": 24
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/Recy_adp.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/Myviewmodel.java",
+      "selection": {
+        "end": {
+          "column": 29,
+          "index": 271,
+          "line": 11
+        },
+        "start": {
+          "column": 29,
+          "index": 271,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/Mviewmodel_2.java",
+      "selection": {
+        "end": {
+          "column": 43,
+          "index": 517,
+          "line": 15
+        },
+        "start": {
+          "column": 43,
+          "index": 517,
+          "line": 15
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 47,
+          "index": 448,
+          "line": 12
+        },
+        "start": {
+          "column": 47,
+          "index": 448,
+          "line": 12
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/MainActivity.java"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     app:cardCornerRadius="20dp">
+
+    <LinearLayout
+         android:layout_height="match_parent"
+         android:layout_width="match_parent"
+         android:background="@drawable/miaobian"
+         android:orientation="vertical">
+
+        <ScrollView
+             android:layout_height="570dp"
+             android:layout_width="350dp">
+
+            <LinearLayout
+                 android:layout_height="match_parent"
+                 android:layout_width="match_parent">
+
+                <TextView
+                     android:layout_height="match_parent"
+                     android:layout_width="match_parent"
+                     android:padding="15dp"
+                     android:textSize="18sp"
+                     android:textColor="#000000"
+                     android:lineSpacingMultiplier="1.5"
+                     android:lineSpacingExtra="2dp"
+                     android:text="isjsbsh"
+                     android:layout_gravity="center"
+                     android:id="@+id/tc_tv1" />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+        
+        
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

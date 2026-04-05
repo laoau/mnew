@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.mnew.app-mergeDebugResources-35:/layout/recy_item.xml",
+        "source": "com.mnew.app-main-38:/layout/recy_item.xml"
+    },
+    {
+        "merged": "com.mnew.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.mnew.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mnew.app-mergeDebugResources-35:/layout/f2.xml",
+        "source": "com.mnew.app-main-38:/layout/f2.xml"
+    },
+    {
+        "merged": "com.mnew.app-mergeDebugResources-35:/layout/f1.xml",
+        "source": "com.mnew.app-main-38:/layout/f1.xml"
+    },
+    {
+        "merged": "com.mnew.app-mergeDebugResources-35:/layout/tc.xml",
+        "source": "com.mnew.app-main-38:/layout/tc.xml"
+    }
+]

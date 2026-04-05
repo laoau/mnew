@@ -28,6 +28,12 @@ android {
 }
 
 dependencies {
+
+    implementation ("org.jsoup:jsoup:1.15.4")
+    implementation ("com.squareup.okhttp3:okhttp:3.4.0")
+    implementation ("com.github.bumptech.glide:glide:4.12.0")
+    annotationProcessor ("com.github.bumptech.glide:compiler:4.12.0")
+
     implementation(libs.androidx.core)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)

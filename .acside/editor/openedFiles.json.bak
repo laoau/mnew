@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/F1.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 19,
+          "line": 2
+        },
+        "start": {
+          "column": 0,
+          "index": 19,
+          "line": 2
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Mnew/app/src/main/java/com/mnew/F1.java"
+}

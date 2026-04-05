@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+     android:clickable="true">
+
+    <com.google.android.material.card.MaterialCardView
+         android:layout_height="73dp"
+         android:layout_width="match_parent"
+         android:layout_margin="2dp"
+         app:cardCornerRadius="15dp"
+         android:id="@+id/item_card_click">
+
+        <LinearLayout
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+             android:background="#34C6F299"
+             android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                 android:layout_height="match_parent"
+                 android:layout_width="85dp"
+                 android:layout_margin="1dp"
+                 app:cardCornerRadius="8dp">
+
+                <ImageView
+                     android:layout_height="match_parent"
+                     android:layout_width="match_parent"
+                     android:scaleType="centerCrop"
+                     android:id="@+id/item_img_img" />
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                 android:layout_height="match_parent"
+                 android:layout_width="match_parent"
+                 android:gravity="center_vertical"
+                 android:orientation="vertical">
+
+                <TextView
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:textAppearance="?android:attr/textAppearanceLarge"
+                     android:textSize="14sp"
+                     android:layout_marginLeft="4dp"
+                     android:layout_marginTop="4dp"
+                     android:text="Large Text"
+                     android:id="@+id/item_tv_title" />
+
+                <TextView
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:textSize="10sp"
+                     android:layout_marginLeft="4dp"
+                     android:layout_marginTop="5dp"
+                     android:text="Text"
+                     android:id="@+id/item_tv_time" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
